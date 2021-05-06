@@ -1,8 +1,0 @@
-name: ChatClear
-main: de.maifii.chatclear.main.Main
-author: Maifii
-version: 1.0
-
-commands:
-  cc:
-    description: Dieser Befehl leert den Chat!
