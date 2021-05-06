@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="ChatClear">
-    <output-path>$PROJECT_DIR$/../../..</output-path>
-    <root id="archive" name="ChatClear.jar">
-      <element id="module-output" name="ChatClear" />
-      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
-    </root>
-  </artifact>
-</component>
