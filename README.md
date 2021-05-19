@@ -1,7 +1,7 @@
 # ChatClear
 > Leert den Chat eines Minecraft Servers
 
-![](header.png)
+![](ChatClear.png)
 
 ## Usage example
 
