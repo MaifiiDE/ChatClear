@@ -14,7 +14,7 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 
 * 1.0
 
-## Meta
+## Credits
 
 Moritz Winkler – [@MaifiiDE](https://twitter.com/maifiide) – Contact@CursedCats.de
 
