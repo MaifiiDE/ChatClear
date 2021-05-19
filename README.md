@@ -24,7 +24,7 @@ npm test
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/maifiide) – Contact@CursedCats.de
+Your Name – [@MaifiiDE](https://twitter.com/maifiide) – Contact@CursedCats.de
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
