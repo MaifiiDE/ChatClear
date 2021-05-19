@@ -5,7 +5,7 @@
 
 ## Beispiel für die Nutzung
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+Falls Extremisten auf deinem Minecraft Server extremistische Sachen schreiben kannst du mit diesen Plugin den Chat leeren
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
