@@ -18,10 +18,6 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 
 Moritz Winkler – [@MaifiiDE](https://twitter.com/maifiide) – Contact@CursedCats.de
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
