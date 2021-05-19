@@ -1,8 +1,6 @@
 # ChatClear
 > Leert den Chat eines Minecraft Servers
 
-One to two paragraph statement about your product and what it does.
-
 ![](header.png)
 
 ## Installation
@@ -10,13 +8,7 @@ One to two paragraph statement about your product and what it does.
 OS X & Linux:
 
 ```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
+>> Sourcecode in IntelliJ / Eclipse ziehen, und exportieren.
 ```
 
 ## Usage example
