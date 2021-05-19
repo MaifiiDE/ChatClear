@@ -16,7 +16,7 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 
 ## Meta
 
-Your Name – [@MaifiiDE](https://twitter.com/maifiide) – Contact@CursedCats.de
+Moritz Winkler – [@MaifiiDE](https://twitter.com/maifiide) – Contact@CursedCats.de
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
