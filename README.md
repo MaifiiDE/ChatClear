@@ -7,7 +7,6 @@
 
 Falls Extremisten auf deinem Minecraft Server extremistische Sachen schreiben kannst du mit diesen Plugin den Chat leeren
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
 
 
 ## Release
